@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Estou trabalhando atualmente em...apenas estudando.
+
+🌱 Estou aprendendo atualmente...linguagens de programação
+
+👯 Estou procurando colaborar em...tudo em que eu possa aprender em relação a área de tecnologia
+
+🤔 Estou procurando ajuda com...encontrar estágios
+
+💬 Me pergunte sobre...qualquer coisa
+
+📫 Como me encontrar: ...niltonrox881@gmail.com
+
+😄 Pronomes: ...Ele, Dele 
+
+⚡ Fato curioso: ...Gosto de games antigos e tecnologia
